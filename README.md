@@ -1,21 +1,3 @@
-# vuex
+# Component Communication and State Management in Vue.js
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+Code samples for article [Component Communication and State Management in Vue.js](https://medium.com/@fadamakis/component-communication-and-state-management-in-vue-js-cc59389d4c01)
